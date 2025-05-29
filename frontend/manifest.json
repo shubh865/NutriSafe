@@ -1,0 +1,13 @@
+{
+  "name": "NutriSafe",
+  "short_name": "NutriSafe",
+  "theme_color": "#F8C2C2",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    { "src": "/logo.png", "type": "image/png", "sizes": "192x192" }
+  ]
+}
